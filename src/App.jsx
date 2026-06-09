@@ -5,7 +5,7 @@ const schedule = {
     label: "Cơ Sở 2",
     classes: [
       { name: "Kid Dance Summer 1", room: "Room B", days: "T3 & T5", time: "09:00 – 10:00", teacher: "Biu", tag: "kid", note: "POP UP Hè" },
-      { name: "Kid Dance Summer 2", room: "Room B", days: "T3 & T5", time: "09:00 – 10:00", teacher: "Hin", tag: "kid", note: "POP UP Hè" },
+      { name: "Kid Dance Summer 2", room: "Room B", days: "T2 & T4", time: "09:00 – 10:00", teacher: "Hin", tag: "kid", note: "POP UP Hè" },
       { name: "Kid Dance 3", room: "Room B", days: "T3 & T5", time: "17:30 – 18:30", teacher: "Thảo", tag: "kid" },
       { name: "Kid Dance 4", room: "Room B", days: "T7 & CN", time: "08:00 – 09:00", teacher: "Hin", tag: "kid" },
       { name: "Kid Dance 5", room: "Room B", days: "T7 & CN", time: "09:00 – 10:00", teacher: "Hin", tag: "kid" },
@@ -21,8 +21,8 @@ const schedule = {
   "CS1": {
     label: "Cơ Sở 1",
     classes: [
-      { name: "Kid Dance 1", room: "Room A", days: "T2 & T4", time: "08:00 – 09:00", teacher: "Biu", tag: "kid" },
-      { name: "Kid Dance 2", room: "Room A", days: "T2 & T4", time: "09:00 – 10:00", teacher: "Thảo", tag: "kid" },
+      { name: "Kid Dance 1", room: "Room A", days: "T7 & CN", time: "08:00 – 09:00", teacher: "Biu", tag: "kid" },
+      { name: "Kid Dance 2", room: "Room A", days: "T7 & CN", time: "09:00 – 10:00", teacher: "Thảo", tag: "kid" },
       { name: "HipHop Kid 1", room: "Room A", days: "T2 & T4", time: "17:30 – 18:30", teacher: "Hin", tag: "kid" },
       { name: "HipHop Kid 2", room: "Room A", days: "T3 & T5", time: "17:30 – 18:30", teacher: "Lợi", tag: "kid" },
       { name: "Choreo 1", room: "Room A", days: "T2 & T4", time: "18:30 – 19:30", teacher: "Kiệt", tag: "choreo" },
