@@ -14,7 +14,6 @@ const schedule = {
       { name: "Choreo 2", room: "Room B", days: "T3 & T5", time: "18:30 – 19:30", teacher: "Trầm", tag: "choreo" },
       { name: "Choreo 5", room: "Room B", days: "T3 & T5", time: "19:30 – 20:30", teacher: "Thảo", tag: "choreo" },
       { name: "Cover Dance (K-POP/USUK)", room: "Room C", days: "T2 & T4", time: "18:30 – 19:30", teacher: "Biu", tag: "cover" },
-      { name: "Girlstyle", room: "Room C", days: "T3 & T6", time: "19:30 – 20:30", teacher: "Lee", tag: "girlstyle" },
       { name: "T24 Junior", room: "Room B", days: "T7 & CN", time: "17:30 – 19:00", teacher: "Lợi", tag: "choreo" },
     ]
   },
@@ -28,6 +27,7 @@ const schedule = {
       { name: "Choreo 1", room: "Room A", days: "T2 & T4", time: "18:30 – 19:30", teacher: "Kiệt", tag: "choreo" },
       { name: "Choreo 3", room: "Room A", days: "T3 & T5", time: "19:30 – 20:30", teacher: "Lợi", tag: "choreo" },
       { name: "Cover Dance (K-POP/USUK)", room: "Room A", days: "T3 & T5", time: "18:30 – 19:30", teacher: "Biu", tag: "cover" },
+      { name: "Girlstyle", room: "Room A", days: "T3 & T6", time: "19:30 – 20:30", teacher: "Lee", tag: "girlstyle" },
     ]
   }
 };
